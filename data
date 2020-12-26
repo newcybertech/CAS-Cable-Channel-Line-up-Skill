@@ -1,0 +1,8 @@
+{
+   "name":"channel",
+   "value": {
+     "number": "9",
+     "callSign": "PBS",
+     "affiliateCallSign": "KCTS"
+  }
+}
